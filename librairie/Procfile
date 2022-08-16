@@ -1,2 +1,2 @@
 
-web: gunicorn app_name.wsgi --log-file -
+web: gunicorn librairie.wsgi --log-file -
